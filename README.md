@@ -19,7 +19,6 @@ El objetivo de este portfolio es mostrar los conocimientos adquiridos y mi evolu
 - **SQL:** Database management, queries, JOINs, aggregations and business analysis.
 - **Power BI:** Data visualization, dashboards, KPIs and reporting.
 - **Microsoft Excel:** Data analysis, data organization and reporting.
-- **Python:** Programming and data analysis (proyectos por incorporar).
 
 ## 📂 Projects | Proyectos
 
