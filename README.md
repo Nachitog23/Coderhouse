@@ -36,8 +36,8 @@ Projects focused on database creation, data extraction, transformation and busin
 
 Dashboards, interactive reports, data modeling and business performance analysis.
 
-*Projects to be added.*
-
+- [Reporte Ventas La Huerta]](https://github.com/Nachitog23/Reporte-Ventas-La-huerta.git)
+  
 ### 3. Excel & Data Analysis
 
 Data cleaning, spreadsheet analysis and reporting.
